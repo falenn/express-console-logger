@@ -1,0 +1,49 @@
+{
+  "name": "express-console-logger",
+  "description": "Super basic console logger activated by Express Middleware pattern",
+  "version": "1.0.0",
+  "author": {
+    "name": "Curtis Bates",
+    "email": "dev@imwiz.com"
+  },
+  "homepage": "https://github.com/falenn/express-console-logger.git",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/falenn/express-console-logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/falenn/express-console-logger/issues"
+  },
+  "main": "./index.js",
+  "keywords": [
+    "express",
+    "logger"
+  ],
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "coveralls": "~2.10.0"
+  },
+  "directories": {
+    "example": "./examples",
+    "lib": "./lib"
+  },
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Curtis Bates",
+      "email": "dev@imwiz.com",
+      "url": "https://github.com/falenn"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "falenn",
+      "email": "dev@imwiz.com"
+    }
+  ]
+}
