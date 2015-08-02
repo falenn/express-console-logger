@@ -1,7 +1,7 @@
 {
   "name": "express-console-logger",
   "description": "Super basic console logger activated by Express Middleware pattern",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "author": {
     "name": "Curtis Bates",
     "email": "dev@imwiz.com"
